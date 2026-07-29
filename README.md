@@ -68,6 +68,12 @@ Universe uses today's constituent list. Estimated inflation: 2–5% CAGR per yea
 - **Simplified costs:** flat 0.20% ignores market impact on less liquid names
 - **No risk model:** no volatility scaling or sector neutrality
 - **Data quality:** Yahoo Finance is not institutional grade (NSE Bhavcopy or CMIE Prowess would be more rigorous)
+  
+## Cost Sensitivity
+![Cost Sensitivity](cost_sensitivity.png)
+
+## Statistical Significance — Bootstrap Sharpe Distribution
+![Bootstrap Sharpe](bootstrap_sharpe.png)
 
 ## How to Run
 1. Install Python 3
