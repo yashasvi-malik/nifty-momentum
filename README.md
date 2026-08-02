@@ -89,6 +89,9 @@ After controlling for market, size, and value factors:
 ## Statistical Significance
 ![Bootstrap Sharpe](bootstrap_sharpe.png)
 
+## Final Benchmark — vs Nifty Momentum 30 (NSE official index)
+![Final Benchmark](final_benchmark.png)
+
 ## How to Run
 1. Install Python 3
 2. Run: `pip install notebook yfinance pandas numpy matplotlib seaborn scipy`
