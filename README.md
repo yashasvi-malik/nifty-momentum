@@ -75,6 +75,20 @@ Universe uses today's constituent list. Estimated inflation: 2–5% CAGR per yea
 ## Statistical Significance — Bootstrap Sharpe Distribution
 ![Bootstrap Sharpe](bootstrap_sharpe.png)
 
+## Fama-French 3-Factor Alpha
+After controlling for market, size, and value factors:
+- **Annualised alpha: 14.16%**
+- **t-stat: 3.808 | p-value: 0.0002 | SIGNIFICANT**
+
+## Vol Scaling
+![Vol Scaling](vol_scaling.png)
+
+## Cost Sensitivity
+![Cost Sensitivity](cost_sensitivity.png)
+
+## Statistical Significance
+![Bootstrap Sharpe](bootstrap_sharpe.png)
+
 ## How to Run
 1. Install Python 3
 2. Run: `pip install notebook yfinance pandas numpy matplotlib seaborn scipy`
